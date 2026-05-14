@@ -523,6 +523,17 @@ View GitHub Profile
 ```
 
 ## OUTPUT
+<img width="1902" height="867" alt="Screenshot 2026-05-14 125449" src="https://github.com/user-attachments/assets/7f15fb1c-60cf-4aa5-b5e5-d1766ac3f5bb" />
+
+<img width="1883" height="713" alt="Screenshot 2026-05-14 125521" src="https://github.com/user-attachments/assets/2db900d4-087b-4aa1-abcf-59e8401b5bf7" />
+
+<img width="1888" height="905" alt="Screenshot 2026-05-14 125535" src="https://github.com/user-attachments/assets/614697a1-9f46-45a8-b26a-1ca0e122d9fd" />
+
+<img width="1863" height="807" alt="Screenshot 2026-05-14 125549" src="https://github.com/user-attachments/assets/a2552fd5-3b50-4bfc-a5ef-84d403c8a22c" />
+
+<img width="1861" height="908" alt="Screenshot 2026-05-14 125602" src="https://github.com/user-attachments/assets/10d15e0a-a802-4c5f-9687-91ed36f3a375" />
+
+
 
 
 ## RESULT
